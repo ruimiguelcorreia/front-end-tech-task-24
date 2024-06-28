@@ -34,4 +34,5 @@ Below is an explanation of how the search bar filters should function:
 - Multiple property type filters can be applied at the same time, i.e filtering by both `House` and `Flat`
 - When the bedroom filter is applied only properties with that specific number of bedrooms are shown, i.e. the 5 bedrooms filter is applied, only 5 bedroom properties are shown
 - Filters can be combined, i.e. property type filters `House` and `Flat` with number of bedrooms 5
+- The filter count on the property type indicates how many property type filters are applied, i.e. if `House` and `Flat` are both applied the filter count shows 2
 - The design is not responsive, you only need to build for desktop.
