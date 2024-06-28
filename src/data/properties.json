@@ -1,0 +1,160 @@
+{
+  "properties": [
+    {
+      "bedrooms": 5,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 4,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 3,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 2,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+
+    {
+      "bedrooms": 5,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 4,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 3,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 2,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+
+    {
+      "bedrooms": 5,
+      "type": "house",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3A28d57e77-5a74-49c8-978d-41ddfa14497d/12-1710837023721.jpg"
+    },
+    {
+      "bedrooms": 4,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 3,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 2,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "house",
+      "image": "https://afs-legacy-property-images-prod.s3.eu-west-2.amazonaws.com/190819_Main.jpg"
+    },
+
+    {
+      "bedrooms": 5,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 4,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 3,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 2,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "flat",
+      "image": "https://afs-property-images-prod.s3.eu-west-2.amazonaws.com/protected/eu-west-2%3Adf8d0658-bfcf-4675-9ed6-17798c7ca5ac/7-1705069990144.jpg"
+    },
+
+
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    },
+    {
+      "bedrooms": 1,
+      "type": "studio",
+      "image": "https://afs-pbsa-images-prod.s3.eu-west-2.amazonaws.com/lphs_351912_additional12152023103555AM.jpg"
+    }
+  ]
+}
