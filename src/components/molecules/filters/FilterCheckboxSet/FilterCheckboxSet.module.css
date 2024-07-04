@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.checkbox {
+    height: 0;
+    width: 0;
+}
+
+.option {
+    height: calc(10.6rem - 2 * 2rem);
+    width: calc(10.6rem - 2 * 2rem);
+    padding: 2rem;
+    cursor: pointer;
+    border: 0.2rem solid var(--cool-grey-200);
+    border-radius: 0.8rem;
+    color: var(--cool-grey-800);
+}
+
+.option:hover {
+    border-color: var(--cool-grey-500);
+}
+
+.option:not(:last-of-type) {
+    margin-right: 1.6rem;
+}
+
+.label {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-top: 2.1rem;
+}
+
+.checkbox:checked + .option {
+    border-color: var(--base-alpha);
+    background-color: var(--orange-10);
+    color: var(--base-alpha);
+}
+
+.checkbox:checked + .option .label {
+    color: var(--cool-grey-800);
+}
+
+.checkbox:focus + .option {
+    border-color: var(--cool-grey-900);
+}

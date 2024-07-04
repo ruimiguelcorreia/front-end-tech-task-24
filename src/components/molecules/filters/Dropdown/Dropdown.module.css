@@ -1,0 +1,13 @@
+.closed {
+    display: none;
+}
+
+.open {
+    display: block;
+    position: absolute;
+    top: calc(100% + 1rem);
+    background-color: var(--white);
+    padding: 2.4rem;
+    border-radius: 1.6rem;
+    box-shadow: 0 0.8rem 1.8rem 0 var(--cool-grey-900-o-20);
+}
