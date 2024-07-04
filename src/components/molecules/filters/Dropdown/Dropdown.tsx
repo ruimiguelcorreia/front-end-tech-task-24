@@ -6,7 +6,11 @@ interface DropdownProps extends HTMLAttributes<HTMLDivElement> {
 }
 
 const Dropdown = ({ open, ...rest }: DropdownProps) => (
-    <div className={`${open ? styles.open : styles.closed}`} {...rest}></div>
+    <div
+        className={`${open ? styles.open : styles.closed}`}
+        {...rest}
+        role="menu"
+    ></div>
 )
 
 export default Dropdown

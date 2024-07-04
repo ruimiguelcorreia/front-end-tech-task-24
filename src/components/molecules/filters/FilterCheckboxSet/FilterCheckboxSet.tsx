@@ -17,7 +17,11 @@ const FilterCheckboxSet = ({
                     type="checkbox"
                     value={value}
                 />
-                <label className={styles.option} htmlFor={label}>
+                <label
+                    className={styles.option}
+                    htmlFor={label}
+                    aria-label={label}
+                >
                     {icon && <Icon icon={icon} />}
                     <span className={styles.label}>{label}</span>
                 </label>

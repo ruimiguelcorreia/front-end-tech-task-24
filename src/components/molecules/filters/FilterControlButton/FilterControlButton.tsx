@@ -27,6 +27,7 @@ const FilterControlButton = ({
             active ? styles.active : ''
         }`}
         {...rest}
+        aria-label={label}
     >
         <span className={styles.container}>
             <Icon icon={icon} />

@@ -40,7 +40,6 @@ const useFetchData = (
 
                 setState((prev) => ({ ...prev, data }))
             } catch (err) {
-                // TODO: Create the type guard.
                 setState((prev) => ({ ...prev, error: (err as Error).message }))
             } finally {
                 setState((prev) => ({ ...prev, loading: false }))

@@ -5,7 +5,12 @@ type CounterProps = {
 }
 
 const Counter = ({ count }: CounterProps) => (
-    <span className={styles.counter}>{count}</span>
+    <span
+        className={styles.counter}
+        aria-label={`Number of filters applied: ${count}`}
+    >
+        {count}
+    </span>
 )
 
 export default Counter

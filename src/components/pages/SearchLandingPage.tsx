@@ -26,7 +26,7 @@ const SearchLandingPage = () => {
     if (loading) return <>Loading...</>
 
     // Designed error dashboard.
-    if (error) return <></>
+    if (error) return <>Error...</>
 
     return (
         <GlobalLayout>

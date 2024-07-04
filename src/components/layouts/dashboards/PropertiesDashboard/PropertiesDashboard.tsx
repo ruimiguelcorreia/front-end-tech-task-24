@@ -10,7 +10,7 @@ const PropertiesDashboard = ({ properties }: PropertiesDashboardProps) => {
     if (!properties.length) return <>No properties available.</>
 
     return (
-        <section className={styles.dashboard}>
+        <section className={styles.dashboard} aria-label="Properties List">
             {properties.map((property, index) => (
                 <PropertyCard key={index} {...property} />
             ))}
