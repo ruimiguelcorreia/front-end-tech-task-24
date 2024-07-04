@@ -1,0 +1,4 @@
+.divider {
+    height: 3.2rem;
+    border-left: 0.1rem solid var(--warm-grey-300);
+}
