@@ -1,0 +1,11 @@
+.sidebar {
+    padding: 1.2rem 12rem;
+    background-color: var(--warm-grey-50);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    max-width: var(--content-max-width);
+    margin: 0 auto;
+}
