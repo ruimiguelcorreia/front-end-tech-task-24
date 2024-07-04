@@ -1,4 +1,4 @@
-import { PropsWithChildren, useReducer } from 'react'
+import { PropsWithChildren } from 'react'
 import Dropdown from '@/components/molecules/filters/Dropdown'
 import FilterControlButton from '@/components/molecules/filters/FilterControlButton'
 import { filtersRegistry as registry } from '@/registries/filtersRegistry'
