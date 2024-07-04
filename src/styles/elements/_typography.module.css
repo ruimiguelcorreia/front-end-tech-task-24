@@ -7,7 +7,7 @@ body {
     font-family: 'Apax';
     src: url('/public/fonts/apax-regular.woff') format('woff'),
         url('/public/fonts/apax-regular.woff2') format('woff2');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -23,7 +23,7 @@ body {
     font-family: 'Apax';
     src: url('/public/fonts/apax-medium.woff') format('woff'),
         url('/public/fonts/apax-medium.woff2') format('woff2');
-    font-weight: bold;
+    font-weight: 500;
     font-style: normal;
 }
 
@@ -31,6 +31,6 @@ body {
     font-family: 'Apax';
     src: url('/public/fonts/apax-bold.woff') format('woff'),
         url('/public/fonts/apax-bold.woff2') format('woff2');
-    font-weight: bolder;
+    font-weight: 700;
     font-style: normal;
 }

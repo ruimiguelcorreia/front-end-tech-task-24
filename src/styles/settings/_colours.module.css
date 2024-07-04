@@ -1,5 +1,6 @@
 :root {
     --base-alpha: #ec6b1e;
+    --base-alpha-o-15: #ec6b1e26;
     --cool-grey-200: #e6e6e8;
     --cool-grey-400: #bab9c0;
     --cool-grey-500: #9997a3;
@@ -7,6 +8,7 @@
     --cool-grey-700: #636171;
     --cool-grey-800: #3c3a4a;
     --cool-grey-900: #232132;
+    --cool-grey-900-o-20: #23213233;
     --warm-grey-50: #fbfaf9;
     --warm-grey-100: #f6f4f0;
     --warm-grey-200: #f0ede8;
